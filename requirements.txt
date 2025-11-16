@@ -1,0 +1,3 @@
+# Dependencies for resume extraction and site tooling
+pdfminer.six>=20221105,<2025
+PyMuPDF>=1.23.9,<1.25
